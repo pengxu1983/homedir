@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+cd /mnt/webserver/nodejs_server/develop/TTGIS_nodejs_6.9.4_sails_0.12.11_V1.0 && sails lift --prod &
