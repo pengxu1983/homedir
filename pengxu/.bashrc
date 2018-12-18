@@ -30,3 +30,5 @@ fi
 PATH=$PATH:/mnt/software/node/bin:/mnt/software/composer/bin:/mnt/software/composer/vendor/bin:/www/wdlinux:/root/.config/composer/vendor/bin
 export PATH=/mnt/software/flutters/flutter/bin:$PATH
 
+
+export PATH="/mnt/software/flutters/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/mnt/software/node/bin:/mnt/software/composer/bin:/mnt/software/composer/vendor/bin:/www/wdlinux:/root/.config/composer/vendor/bin:/home/pengxu/.vimpkg/bin"
