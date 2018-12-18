@@ -1,2 +1,2 @@
 #!/usr/bin/sh
-ssh root@39.104.27.176
+ssh $USER@39.104.27.176

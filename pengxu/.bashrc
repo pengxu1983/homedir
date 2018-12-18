@@ -10,7 +10,7 @@ alias gophpini='vim /usr/local/php/etc/php.ini'
 alias gonginxconf='vim /usr/local/nginx/conf/nginx.conf'
 alias c='clear'
 alias h='history'
-alias pxdevserver='~/homedir/cmd/pxdevserver'
+alias pxdevserver='~/cmd/pxdevserver'
 alias la='ls -a'
 
 # vnc start
