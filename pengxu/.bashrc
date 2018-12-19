@@ -11,6 +11,7 @@ alias gonginxconf='vim /usr/local/nginx/conf/nginx.conf'
 alias c='clear'
 alias h='history'
 alias pxdevserver='~/cmd/pxdevserver'
+alias ls='ls -F --color'
 alias la='ls -a'
 
 # vnc start

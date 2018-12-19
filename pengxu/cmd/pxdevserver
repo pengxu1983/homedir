@@ -1,2 +1,1 @@
-#!/usr/bin/sh
 ssh $USER@39.104.27.176
